@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on AI 
 - 📫 Reach me at sagnikd587@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
+- ⚡ Favourite Quote: Jack of all trades, Master of None, but still better than the Master of One
 
 <!---
 sagnik-create/sagnik-create is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
